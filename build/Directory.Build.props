@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <WarnOn>
+      FS3569
+    </WarnOn>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
